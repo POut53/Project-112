@@ -1,0 +1,23 @@
+span{
+   
+   font-size: 15px;
+}
+li img{
+    width: 200px;
+}
+.text_image_result{
+    background:rgb(228, 228, 228);
+    padding: 30px;
+    width: 50%;
+}
+.mini_result{
+    text-align: center;
+    padding:10px;
+}
+.copy_write_footer{
+    color:red;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+}
+
